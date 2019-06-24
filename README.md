@@ -1,5 +1,4 @@
-# install-k8s-macos
-Install a k8s cluster on macos using vagrant and virtualbox
+# Install a k8s cluster on macos using vagrant and virtualbox
 
 1. Download and [install Vagrant](https://www.vagrantup.com/downloads.html) (Latest Version: 2.2.4)
 2. Download and [install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
